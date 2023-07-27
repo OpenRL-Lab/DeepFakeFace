@@ -1,3 +1,3 @@
 # DeepFakeFace
 
-[[Website](./)] [[paper](./)] 
+[[Website](https://sites.google.com/view/deepfakeface/home)] [[paper](./)] 
