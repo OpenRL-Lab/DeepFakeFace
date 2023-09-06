@@ -53,12 +53,10 @@ python add_distortion.py
 Please cite our paper if you use our codes or our dataset in your own work:
 
 
-
+```
 @article{song2023deepfake,
   title={Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models},
   author={Haixu Song, Shiyu Huang, Yinpeng Dong, Wei-Wei Tu},
   journal={arXiv preprint arXiv:2309.02218},
   year={2023}
-
-
-``` -->
+```
