@@ -3,7 +3,7 @@
 
 
 Code accompanying the paper
-"Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models". [[Website](https://sites.google.com/view/deepfakeface/home)] [[paper](https://arxiv.org/abs/2309.02218)] [[HuggingFace Dataset](https://huggingface.co/datasets/OpenRL/DeepFakeFace)].
+"Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models". [[Website](https://sites.google.com/view/deepfakeface/home)] [[paper](https://arxiv.org/abs/2309.02218)] [[HuggingFace Dataset](https://huggingface.co/datasets/OpenRL/DeepFakeFace/tree/main)].
 
 
 
@@ -11,7 +11,7 @@ Code accompanying the paper
 
 Welcome to the **DeepFakeFace (DFF)** repository! Here we present a meticulously curated collection of artificial celebrity faces, crafted using cutting-edge diffusion models. Our aim is to tackle the rising challenge posed by deepfakes in today's digital landscape.
 
-Our dataset can be downloaded from [HuggingFace](https://huggingface.co/datasets/OpenRL/DeepFakeFace). Here are some example images in our dataset:
+Our dataset can be downloaded from [HuggingFace](https://huggingface.co/datasets/OpenRL/DeepFakeFace/tree/main). Here are some example images in our dataset:
 <div align="center">
     <img width="100%" height="auto" src="docs/images/deepfake_examples.jpg">
 </div>
